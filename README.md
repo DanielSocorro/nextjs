@@ -1,1 +1,1 @@
-# Creating a e-commerce web paga with NextJS
+# Creating a e-commerce web page with NextJS
